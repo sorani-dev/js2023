@@ -1,9 +1,10 @@
 # Javascript Programming
+
 by Codemy.com
 
 Javascript Programming For Web Development!
 
-Playlixt url: <https://youtube.com/playlist?list=PLCC34OHNcOtoL9GBolQKRq9RiA6PxSqMd>
+Playlist url: <https://youtube.com/playlist?list=PLCC34OHNcOtoL9GBolQKRq9RiA6PxSqMd>
 
 ## Video List
 
